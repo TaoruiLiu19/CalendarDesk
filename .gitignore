@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+holiday_cache.json
+calendar_memo.json
+*.json.tmp
